@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "7F74C2AE-A716-41A3-B4A7-D31C345708EF",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Football Leagues.xcodeproj",
+      "identifier" : "2B4D6ED92AAE30F500225EEE",
+      "name" : "Football Leagues"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Football Leagues.xcodeproj",
+        "identifier" : "2B4D6EF22AAE30F600225EEE",
+        "name" : "Football LeaguesTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Football Leagues.xcodeproj",
+        "identifier" : "2B4D6EFC2AAE30F600225EEE",
+        "name" : "Football LeaguesUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TeamsViewController" customModule="Football_Leagues" customModuleProvider="target">
+            <connections>
+                <outlet property="headerView" destination="R4J-jt-Ldg" id="3gZ-pp-szs"/>
+                <outlet property="teamsTableView" destination="ecU-nd-2t9" id="BFV-eP-1Na"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="R4J-jt-Ldg" customClass="CommonLeagueView" customModule="Football_Leagues" customModuleProvider="target">
+                    <rect key="frame" x="0.0" y="59" width="393" height="120"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="120" id="Znv-Lu-O7n"/>
+                    </constraints>
+                </view>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" contentInsetAdjustmentBehavior="never" style="plain" separatorStyle="default" allowsSelection="NO" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="1" estimatedSectionFooterHeight="-1" contentViewInsetsToSafeArea="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ecU-nd-2t9">
+                    <rect key="frame" x="0.0" y="221" width="393" height="597"/>
+                </tableView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Teams" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rvo-r3-rGF">
+                    <rect key="frame" x="10" y="189" width="373" height="21"/>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="vGx-Z5-P6Z">
+                    <rect key="frame" x="10" y="220" width="373" height="1"/>
+                    <color key="backgroundColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="Dcj-1O-tlp"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="R4J-jt-Ldg" secondAttribute="trailing" id="8YH-QH-XK8"/>
+                <constraint firstItem="vGx-Z5-P6Z" firstAttribute="top" secondItem="Rvo-r3-rGF" secondAttribute="bottom" constant="10" id="Bpd-Wn-aBh"/>
+                <constraint firstItem="vGx-Z5-P6Z" firstAttribute="trailing" secondItem="Rvo-r3-rGF" secondAttribute="trailing" id="CG0-yZ-VQs"/>
+                <constraint firstItem="vGx-Z5-P6Z" firstAttribute="leading" secondItem="Rvo-r3-rGF" secondAttribute="leading" id="LG2-8x-h3S"/>
+                <constraint firstItem="ecU-nd-2t9" firstAttribute="top" secondItem="vGx-Z5-P6Z" secondAttribute="bottom" id="MCi-qh-0kE"/>
+                <constraint firstItem="R4J-jt-Ldg" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" id="QiZ-3N-p6f"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" secondItem="ecU-nd-2t9" secondAttribute="bottom" id="TZy-w4-JNo"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="ecU-nd-2t9" secondAttribute="trailing" id="cJA-9n-jPL"/>
+                <constraint firstItem="Rvo-r3-rGF" firstAttribute="top" secondItem="R4J-jt-Ldg" secondAttribute="bottom" constant="10" id="gqc-od-bvd"/>
+                <constraint firstItem="Rvo-r3-rGF" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="10" id="jjp-Xc-pQ5"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="Rvo-r3-rGF" secondAttribute="trailing" constant="10" id="oEg-uj-oAq"/>
+                <constraint firstItem="R4J-jt-Ldg" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="pQE-0J-Z2p"/>
+                <constraint firstItem="ecU-nd-2t9" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="zJB-7A-NzK"/>
+            </constraints>
+            <point key="canvasLocation" x="368.70229007633588" y="-69.014084507042256"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

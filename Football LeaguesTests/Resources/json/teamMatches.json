@@ -1,0 +1,2261 @@
+{
+    "filters": {
+        "competitions": "BSA",
+        "permission": "TIER_ONE",
+        "limit": 100
+    },
+    "resultSet": {
+        "count": 38,
+        "competitions": "BSA",
+        "first": "2023-04-16",
+        "last": "2023-12-03",
+        "played": 23,
+        "wins": 13,
+        "draws": 21,
+        "losses": 12
+    },
+    "matches": [
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432439,
+            "utcDate": "2023-04-16T21:30:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:16Z",
+            "homeTeam": {
+                "id": 1767,
+                "name": "Grêmio FBPA",
+                "shortName": "Grêmio",
+                "tla": "FBP",
+                "crest": "https://crests.football-data.org/1767.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432434,
+            "utcDate": "2023-04-23T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 2,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:16Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 1766,
+                "name": "CA Mineiro",
+                "shortName": "Mineiro",
+                "tla": "CAM",
+                "crest": "https://crests.football-data.org/1766.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432423,
+            "utcDate": "2023-04-29T21:30:00Z",
+            "status": "FINISHED",
+            "matchday": 3,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:17Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 1838,
+                "name": "América FC",
+                "shortName": "América (MG)",
+                "tla": "AMÉ",
+                "crest": "https://crests.football-data.org/1838.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "halfTime": {
+                    "home": 2,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432411,
+            "utcDate": "2023-05-06T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 4,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:17Z",
+            "homeTeam": {
+                "id": 1771,
+                "name": "Cruzeiro EC",
+                "shortName": "Cruzeiro",
+                "tla": "CRU",
+                "crest": "https://crests.football-data.org/1771.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432400,
+            "utcDate": "2023-05-10T22:00:00Z",
+            "status": "FINISHED",
+            "matchday": 5,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:17Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 1777,
+                "name": "EC Bahia",
+                "shortName": "Bahia",
+                "tla": "BAH",
+                "crest": "https://crests.football-data.org/1777.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 2,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432392,
+            "utcDate": "2023-05-14T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 6,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:18Z",
+            "homeTeam": {
+                "id": 1780,
+                "name": "CR Vasco da Gama",
+                "shortName": "Vasco da Gama",
+                "tla": "VAS",
+                "crest": "https://crests.football-data.org/1780.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432383,
+            "utcDate": "2023-05-21T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 7,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:18Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 1769,
+                "name": "SE Palmeiras",
+                "shortName": "Palmeiras",
+                "tla": "PAL",
+                "crest": "https://crests.football-data.org/1769.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432372,
+            "utcDate": "2023-05-28T21:30:00Z",
+            "status": "FINISHED",
+            "matchday": 8,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:18Z",
+            "homeTeam": {
+                "id": 4286,
+                "name": "RB Bragantino",
+                "shortName": "Bragantino",
+                "tla": "RBB",
+                "crest": "https://crests.football-data.org/4286.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432360,
+            "utcDate": "2023-06-04T00:00:00Z",
+            "status": "FINISHED",
+            "matchday": 9,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:18Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 6684,
+                "name": "SC Internacional",
+                "shortName": "Internacional",
+                "tla": "SCI",
+                "crest": "https://crests.football-data.org/6684.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432349,
+            "utcDate": "2023-06-10T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 10,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:19Z",
+            "homeTeam": {
+                "id": 4241,
+                "name": "Coritiba FBC",
+                "shortName": "Coritiba",
+                "tla": "COR",
+                "crest": "https://crests.football-data.org/4241.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432343,
+            "utcDate": "2023-06-21T23:00:00Z",
+            "status": "FINISHED",
+            "matchday": 11,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:19Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 1779,
+                "name": "SC Corinthians Paulista",
+                "shortName": "Corinthians",
+                "tla": "COR",
+                "crest": "https://crests.football-data.org/1779.svg"
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 2
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432333,
+            "utcDate": "2023-06-25T21:30:00Z",
+            "status": "FINISHED",
+            "matchday": 12,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:19Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 1783,
+                "name": "CR Flamengo",
+                "shortName": "Flamengo",
+                "tla": "FLA",
+                "crest": "https://crests.football-data.org/1783.png"
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 3
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432321,
+            "utcDate": "2023-07-02T21:30:00Z",
+            "status": "FINISHED",
+            "matchday": 13,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:20Z",
+            "homeTeam": {
+                "id": 4289,
+                "name": "Cuiabá EC",
+                "shortName": "Cuiabá EC",
+                "tla": "CUI",
+                "crest": "https://crests.football-data.org/4289_large.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432313,
+            "utcDate": "2023-07-09T14:00:00Z",
+            "status": "FINISHED",
+            "matchday": 14,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:20Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 4250,
+                "name": "Goiás EC",
+                "shortName": "Goiás",
+                "tla": "GOI",
+                "crest": "https://crests.football-data.org/4250.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 4,
+                    "away": 3
+                },
+                "halfTime": {
+                    "home": 3,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432304,
+            "utcDate": "2023-07-16T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 15,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:20Z",
+            "homeTeam": {
+                "id": 1776,
+                "name": "São Paulo FC",
+                "shortName": "São Paulo",
+                "tla": "PAU",
+                "crest": "https://crests.football-data.org/1776.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 4,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 2,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432292,
+            "utcDate": "2023-07-23T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 16,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:21Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 1770,
+                "name": "Botafogo FR",
+                "shortName": "Botafogo",
+                "tla": "BOT",
+                "crest": "https://crests.football-data.org/1770.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432283,
+            "utcDate": "2023-07-29T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 17,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:21Z",
+            "homeTeam": {
+                "id": 1765,
+                "name": "Fluminense FC",
+                "shortName": "Fluminense",
+                "tla": "FLU",
+                "crest": "https://crests.football-data.org/1765.svg"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432273,
+            "utcDate": "2023-08-05T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 18,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:21Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 1768,
+                "name": "CA Paranaense",
+                "shortName": "Paranaense",
+                "tla": "CAP",
+                "crest": "https://crests.football-data.org/1768.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432265,
+            "utcDate": "2023-08-13T21:30:00Z",
+            "status": "FINISHED",
+            "matchday": 19,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:21Z",
+            "homeTeam": {
+                "id": 3984,
+                "name": "Fortaleza EC",
+                "shortName": "Fortaleza",
+                "tla": "FEC",
+                "crest": "https://crests.football-data.org/3984.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 4,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432253,
+            "utcDate": "2023-08-20T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 20,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:22Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 1767,
+                "name": "Grêmio FBPA",
+                "shortName": "Grêmio",
+                "tla": "FBP",
+                "crest": "https://crests.football-data.org/1767.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432241,
+            "utcDate": "2023-08-27T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 21,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-31T15:20:22Z",
+            "homeTeam": {
+                "id": 1766,
+                "name": "CA Mineiro",
+                "shortName": "Mineiro",
+                "tla": "CAM",
+                "crest": "https://crests.football-data.org/1766.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432236,
+            "utcDate": "2023-09-03T21:30:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-09-04T15:20:11Z",
+            "homeTeam": {
+                "id": 1838,
+                "name": "América FC",
+                "shortName": "América (MG)",
+                "tla": "AMÉ",
+                "crest": "https://crests.football-data.org/1838.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 1,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432226,
+            "utcDate": "2023-09-14T22:00:00Z",
+            "status": "FINISHED",
+            "matchday": 23,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-09-15T20:20:07Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 1771,
+                "name": "Cruzeiro EC",
+                "shortName": "Cruzeiro",
+                "tla": "CRU",
+                "crest": "https://crests.football-data.org/1771.png"
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 3
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432212,
+            "utcDate": "2023-09-18T23:00:00Z",
+            "status": "TIMED",
+            "matchday": 24,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-15T16:20:10Z",
+            "homeTeam": {
+                "id": 1777,
+                "name": "EC Bahia",
+                "shortName": "Bahia",
+                "tla": "BAH",
+                "crest": "https://crests.football-data.org/1777.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432203,
+            "utcDate": "2023-10-01T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 25,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-09-15T15:20:12Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 1780,
+                "name": "CR Vasco da Gama",
+                "shortName": "Vasco da Gama",
+                "tla": "VAS",
+                "crest": "https://crests.football-data.org/1780.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432187,
+            "utcDate": "2023-10-08T19:00:00Z",
+            "status": "TIMED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-09-15T15:20:12Z",
+            "homeTeam": {
+                "id": 1769,
+                "name": "SE Palmeiras",
+                "shortName": "Palmeiras",
+                "tla": "PAL",
+                "crest": "https://crests.football-data.org/1769.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432183,
+            "utcDate": "2023-10-18T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 27,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-15T16:20:11Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 4286,
+                "name": "RB Bragantino",
+                "shortName": "Bragantino",
+                "tla": "RBB",
+                "crest": "https://crests.football-data.org/4286.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432173,
+            "utcDate": "2023-10-21T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 28,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-15T16:20:11Z",
+            "homeTeam": {
+                "id": 6684,
+                "name": "SC Internacional",
+                "shortName": "Internacional",
+                "tla": "SCI",
+                "crest": "https://crests.football-data.org/6684.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432163,
+            "utcDate": "2023-10-25T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 29,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-15T16:20:11Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 4241,
+                "name": "Coritiba FBC",
+                "shortName": "Coritiba",
+                "tla": "COR",
+                "crest": "https://crests.football-data.org/4241.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432148,
+            "utcDate": "2023-10-28T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 30,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-15T16:20:11Z",
+            "homeTeam": {
+                "id": 1779,
+                "name": "SC Corinthians Paulista",
+                "shortName": "Corinthians",
+                "tla": "COR",
+                "crest": "https://crests.football-data.org/1779.svg"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432146,
+            "utcDate": "2023-11-01T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 31,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-15T16:20:12Z",
+            "homeTeam": {
+                "id": 1783,
+                "name": "CR Flamengo",
+                "shortName": "Flamengo",
+                "tla": "FLA",
+                "crest": "https://crests.football-data.org/1783.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432130,
+            "utcDate": "2023-11-04T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 32,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-15T16:20:12Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 4289,
+                "name": "Cuiabá EC",
+                "shortName": "Cuiabá EC",
+                "tla": "CUI",
+                "crest": "https://crests.football-data.org/4289_large.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432119,
+            "utcDate": "2023-11-08T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 33,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-08-15T16:20:12Z",
+            "homeTeam": {
+                "id": 4250,
+                "name": "Goiás EC",
+                "shortName": "Goiás",
+                "tla": "GOI",
+                "crest": "https://crests.football-data.org/4250.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432113,
+            "utcDate": "2023-11-11T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 34,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-31T16:20:11Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 1776,
+                "name": "São Paulo FC",
+                "shortName": "São Paulo",
+                "tla": "PAU",
+                "crest": "https://crests.football-data.org/1776.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432098,
+            "utcDate": "2023-11-22T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 35,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-31T16:20:11Z",
+            "homeTeam": {
+                "id": 1770,
+                "name": "Botafogo FR",
+                "shortName": "Botafogo",
+                "tla": "BOT",
+                "crest": "https://crests.football-data.org/1770.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432093,
+            "utcDate": "2023-11-25T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-31T16:20:11Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 1765,
+                "name": "Fluminense FC",
+                "shortName": "Fluminense",
+                "tla": "FLU",
+                "crest": "https://crests.football-data.org/1765.svg"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432084,
+            "utcDate": "2023-11-29T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 37,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-31T16:20:11Z",
+            "homeTeam": {
+                "id": 1768,
+                "name": "CA Paranaense",
+                "shortName": "Paranaense",
+                "tla": "CAP",
+                "crest": "https://crests.football-data.org/1768.png"
+            },
+            "awayTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https://crests.football-data.org/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro Série A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https://crests.football-data.org/764.svg"
+            },
+            "season": {
+                "id": 1557,
+                "startDate": "2023-04-15",
+                "endDate": "2023-12-03",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 432076,
+            "utcDate": "2023-12-03T00:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 38,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2023-05-31T16:20:12Z",
+            "homeTeam": {
+                "id": 6685,
+                "name": "Santos FC",
+                "shortName": "Santos",
+                "tla": "SAN",
+                "crest": "https://crests.football-data.org/6685.png"
+            },
+            "awayTeam": {
+                "id": 3984,
+                "name": "Fortaleza EC",
+                "shortName": "Fortaleza",
+                "tla": "FEC",
+                "crest": "https://crests.football-data.org/3984.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        }
+    ]
+}
